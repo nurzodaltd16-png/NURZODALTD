@@ -1,0 +1,6 @@
+{
+  "name": "Nurzoda Ltd",
+  "description": "Professional construction, remodelling, and handyman services in London (E7 0LA). Experts in flooring, decoration, tiling, electrical work, and high-end residential renovations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
